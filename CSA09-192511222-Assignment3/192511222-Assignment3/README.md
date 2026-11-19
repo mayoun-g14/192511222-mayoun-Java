@@ -2,8 +2,8 @@
 **Course:** Programming in Java (CSA09) | SIMATS Engineering  
 **Course Outcome:** CO3: Exception Handling & Multithreading  
 **Assignment:** Assignment 3 – Robustness & Concurrency Engineering  
-**Student Name:** ABISHEK J  
-**Registration Number:** 192524131  
+**Student Name:** MAYOUN G
+**Registration Number:** 192511222  
 **Java Version:** OpenJDK 21 LTS (Hotspot 21.0.13)  
 **Submission Repository Link:** https://github.com/ABISHEK192524131/CSA09-192524131-Assignment3  
 
