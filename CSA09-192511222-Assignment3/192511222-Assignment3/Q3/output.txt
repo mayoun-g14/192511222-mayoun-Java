@@ -1,0 +1,4 @@
+COMMAND: PS> javac ResourceSafetyDemo.java
+COMMAND: PS> java ResourceSafetyDemo
+OUTPUT:
+Try-with-resources: Suppressed exceptions preserved.

@@ -1,0 +1,5 @@
+COMMAND: PS> javac SeatBooking.java
+COMMAND: PS> java SeatBooking
+OUTPUT:
+Synchronized booking audit: Exactly 10 seats booked across 20 threads.
+[PASSED] 0 oversold seats.

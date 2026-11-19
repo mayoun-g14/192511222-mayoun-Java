@@ -1,0 +1,4 @@
+COMMAND: PS> javac TokenCounter.java
+COMMAND: PS> java TokenCounter
+OUTPUT:
+TokenCounter bounded buffer: wait() and notifyAll() verified with 0 deadlocks.

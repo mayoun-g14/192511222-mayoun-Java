@@ -1,0 +1,4 @@
+COMMAND: PS> javac ResilientExamProcessor.java
+COMMAND: PS> java ResilientExamProcessor
+OUTPUT:
+ThreadPoolExecutor: 500 scripts processed with CallerRunsPolicy backpressure.

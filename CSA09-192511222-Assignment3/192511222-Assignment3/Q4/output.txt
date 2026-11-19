@@ -1,0 +1,4 @@
+COMMAND: PS> javac ThreadLifeCycleDemo.java
+COMMAND: PS> java ThreadLifeCycleDemo
+OUTPUT:
+States verified: NEW -> RUNNABLE -> TIMED_WAITING -> TERMINATED
